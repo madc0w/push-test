@@ -4,7 +4,7 @@ RaixPushAppTokens = new Mongo.Collection("_raix_push_app_tokens");
 
 Meteor.startup(function() {
 
-	console.log("startup");
+	console.log("client startup");
 	Push.Configure({
 		android : {
 			senderID : "1019874495997",
