@@ -1,0 +1,42 @@
+{
+	"project_info": {
+		"project_number": "1019874495997",
+		"firebase_url": "https://spoticle-1549633342651.firebaseio.com",
+		"project_id": "spoticle-1549633342651",
+		"storage_bucket": "spoticle-1549633342651.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:1019874495997:android:89f6f57e3d179ea9",
+				"android_client_info": {
+					"package_name": "com.spoticle"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "1019874495997-6a5b693uh166iqsq525gnshdfsfoknqh.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AAAA7XVBzf0:APA91bEm8MNr-qK23EnblaFUGzU4ifBd-jbDbfTuZ-5A82WEC17P1UOVZ9QME4k2292R0O9YNorIZpQDOO84KXqIG4ubqbERbWSQF4oIAiHZjWJz-ozvIKUSymXd44-A85Bn-q9tFCeI"
+				}
+			],
+			"services": {
+				"analytics_service": {
+					"status": 1
+				},
+				"appinvite_service": {
+					"status": 1,
+					"other_platform_oauth_client": []
+				},
+				"ads_service": {
+					"status": 2
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}
